@@ -5,6 +5,8 @@
 <instance-profile id="grafysi-design-docs"
                  name="grafysi-design-docs"
                  start-page="starter-topic.md">
-
     <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Tutorial.md"/>
+    <toc-element topic="Reference.md"/>
 </instance-profile>
