@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/grafysi-design-docs'
+  INSTANCE: 'buildSrc/grafysi-design-docs'
   ARTIFACT: 'webHelpGRAFYSI-DESIGN-DOCS2-all.zip'
   DOCKER_VERSION: '241.16003'
 
