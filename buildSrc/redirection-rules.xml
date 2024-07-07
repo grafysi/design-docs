@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6fcab72d">
+        <description>Created after removal of "Empty MD Topic" from Grafysi Design Documents</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="61aa57c6">
+        <description>Created after removal of "About Grafysi Design Documents" from Grafysi Design Documents
+        </description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+    <rule id="51e21802">
+        <description>Created after removal of "Overview" from Grafysi Design Documents</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="1cf5943d">
+        <description>Created after removal of "Tutorial" from Grafysi Design Documents</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="7731f0f5">
+        <description>Created after removal of "Reference" from Grafysi Design Documents</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+</rules>

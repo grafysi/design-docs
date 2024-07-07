@@ -4,9 +4,9 @@
 
 <instance-profile id="grafysi-design-docs"
                  name="Grafysi Design Documents"
-                 start-page="starter-topic.md">
-    <toc-element topic="starter-topic.md"/>
-    <toc-element topic="Overview.md"/>
-    <toc-element topic="Tutorial.md"/>
-    <toc-element topic="Reference.md"/>
+                 start-page="Introduction.md">
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Integration-system.md">
+        <toc-element topic="Integration-trip-of-data.md"/>
+    </toc-element>
 </instance-profile>
